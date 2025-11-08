@@ -9,6 +9,7 @@ Zombie Smash delivers retro-style top-down gameplay with a modern twist: tight a
 👉 https://store.steampowered.com/app/3917950/Zombie_Smash/
 
 ⸻
+
 🔑 Key Features
 
 🧟 Survive the Horde
@@ -31,6 +32,7 @@ Runs natively on Windows 10 and above (64-bit).
 Optimized for smooth and responsive arcade action.
 
 ⸻
+
 ⚙️ How It Works
 • Drop into a closed zombie-infested arena
 • Move fast, shoot faster
@@ -40,10 +42,12 @@ Optimized for smooth and responsive arcade action.
 Each run is a shot at glory. And a fight for survival.
 
 ⸻
+
 🧩 Support & Feedback
 For any issues, suggestions, or feedback, contact:
 📧 shawnfuteran.dev@gmail.com
 
 ⸻
+
 🔥 Ready. Aim. Smash.
 The undead are waiting.
